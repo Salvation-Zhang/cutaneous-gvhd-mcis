@@ -1,0 +1,4 @@
+accession,data_type,disease_context,role,notes
+GSE236264,single-cell RNA-seq,human acute cutaneous GVHD,discovery cohort,Used for discovery atlas construction and focused myeloid/APC cytotoxic T/NK and keratinocyte analyses
+GSE190338,single-cell RNA-seq,human acute cutaneous GVHD,independent single-cell validation cohort,Used to assess reproducibility of discovery-derived immune signatures
+GSE157538,bulk RNA-seq,human chronic cutaneous GVHD,tissue-level support cohort,Used to assess tissue-level detectability and co-variation of single-cell-derived signatures rather than stage-matched validation
