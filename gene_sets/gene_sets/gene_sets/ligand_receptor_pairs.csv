@@ -1,0 +1,17 @@
+ligand,receptor,axis,category
+S100A8,TLR4,S100A8/A9-TLR4,alarmin-receptor
+S100A9,TLR4,S100A8/A9-TLR4,alarmin-receptor
+S100A8,AGER,S100A8/A9-AGER,alarmin-receptor
+S100A9,AGER,S100A8/A9-AGER,alarmin-receptor
+TNF,TNFRSF1A,TNF-TNFRSF1A/B,inflammatory cytokine
+TNF,TNFRSF1B,TNF-TNFRSF1A/B,inflammatory cytokine
+IL15,IL2RB,IL15-IL2RB/IL2RG,cytokine
+IL15,IL2RG,IL15-IL2RB/IL2RG,cytokine
+CCL3,CCR5,CCL3/4/5-CCR5,chemokine
+CCL4,CCR5,CCL3/4/5-CCR5,chemokine
+CCL5,CCR5,CCL3/4/5-CCR5,chemokine
+CXCL9,CXCR3,CXCL9/10/11-CXCR3,chemokine
+CXCL10,CXCR3,CXCL9/10/11-CXCR3,chemokine
+CXCL11,CXCR3,CXCL9/10/11-CXCR3,chemokine
+IFNG,IFNGR1,IFNG-IFNGR1/2,interferon
+IFNG,IFNGR2,IFNG-IFNGR1/2,interferon
